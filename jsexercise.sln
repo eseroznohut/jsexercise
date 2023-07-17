@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "jsexercise", "jsexercise.phpproj", "{DCA98CCC-FD37-41C8-B519-276597E17350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA98CCC-FD37-41C8-B519-276597E17350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA98CCC-FD37-41C8-B519-276597E17350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA98CCC-FD37-41C8-B519-276597E17350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA98CCC-FD37-41C8-B519-276597E17350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB6D60F-76B5-4E65-9F40-2EB6DD4EB0A6}
+	EndGlobalSection
+EndGlobal
